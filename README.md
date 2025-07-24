@@ -33,8 +33,8 @@ surveynex/
 └── users.csv         # Auto-generated file
 🛠️ Getting Started
 1. Clone the Repository
-git clone https://github.com/yourusername/surveynex-waitlist.git
-cd surveynex-waitlist
+git clone https://github.com/yourusername/surveynex.git
+cd surveynex
 
 3. Setup Backend
 cd server
